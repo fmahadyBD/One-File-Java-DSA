@@ -30,6 +30,9 @@ public class array_list {
 
         // sort
         Collections.sort(li);
+        
+        //reverse
+        Collections.reverse(li);
         System.out.println(li);
 
     }
